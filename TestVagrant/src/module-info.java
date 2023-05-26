@@ -1,0 +1,3 @@
+module testVagrant {
+	requires junit;
+}
